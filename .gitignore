@@ -1,0 +1,3 @@
+# npm libraries and post build directory
+node_modules
+dist
